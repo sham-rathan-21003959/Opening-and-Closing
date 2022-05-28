@@ -18,7 +18,9 @@ Use Opening operation
 ### Step5:
 Use Closing Operation
 ## Program:
-``` Python
+```
+Developed by: Sham Rathan.S
+Register num: 212221230093
 # Import the necessary packages
 import numpy as np
 import cv2
@@ -44,11 +46,11 @@ plt.imshow(image1)
 ```
 ## Output:
 ### Display the input Image
-
+![output](./01.png)
 ### Display the result of Opening
-
+![output](./02.png)
 ### Display the result of Closing
-
+![output](./03%2B.png)
 
 ## Result
 Thus the Opening and Closing operation is used in the image using python and OpenCV.
